@@ -8,7 +8,7 @@ This repository is to be used as a template to create your own repository in you
 
 From the GitHub **Code** page, press the green **Use this template** button to create your own repository from this template. 
 
-Name your repo: `Introduction_To_Test_and_Behavior_FInal_Project`.
+Name your repo: `Introduction_To_Test_and_Behavior_Final_Project`.
 
 ## Setup
 

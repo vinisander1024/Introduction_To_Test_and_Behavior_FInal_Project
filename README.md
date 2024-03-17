@@ -8,7 +8,7 @@ This repository is to be used as a template to create your own repository in you
 
 From the GitHub **Code** page, press the green **Use this template** button to create your own repository from this template. 
 
-Name your repo: `tdd-bdd-final-project`.
+Name your repo: `Introduction_To_Test_and_Behavior_FInal_Project`.
 
 ## Setup
 
@@ -44,6 +44,6 @@ Licensed under the Apache License. See [LICENSE](/LICENSE)
 
 ## Author
 
-John Rofrano, Senior Technical Staff Member, DevOps Champion, @ IBM Research
+Vinícius Sander Santana, Student of Coursera and Ampli
 
 ## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
